@@ -1,0 +1,3 @@
+-- Start at 1000, end at 999x
+-- We want a prime of 4 digits that has 2 permutations, which are different, and are also prime;
+-- On top of that they should have the same distances. As an optimization we add that the 2 permutations have to be bigger.
